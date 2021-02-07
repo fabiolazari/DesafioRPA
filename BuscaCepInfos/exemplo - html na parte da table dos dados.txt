@@ -1,0 +1,22 @@
+<table class="tmptabela">
+	<tbody>
+		<tr>
+			<th width="150">Logradouro/Nome:</th>
+			<th width="90">Bairro/Distrito:</th>
+			<th width="80">Localidade/UF:</th>
+			<th width="50">CEP:</th>
+		</tr>
+		<tr>
+			<td width="150">Rua Joaquim Marques de Figueiredo&nbsp;</td>
+			<td>Distrito Industrial Domingos Biancardi&nbsp;</td>
+			<td>Bauru/SP&nbsp;</td>
+			<td width="55">17034-290</td>
+		</tr>
+	
+	</tbody>
+/table>
+
+
+
+https://pt.stackoverflow.com/questions/417998/como-pegar-informa%C3%A7%C3%A3o-de-uma-tr-no-c%C3%B3digo-html-utilizando-o-htmlagilitypack-do-v
+
